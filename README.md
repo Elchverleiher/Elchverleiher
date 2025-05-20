@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently learning how to use GitHub.
+- These are my first steps.
+- After feeling fit in using GitHub, I want to use it for the development of our Typo3-website and more.
